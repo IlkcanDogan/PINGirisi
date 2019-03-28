@@ -1,0 +1,10 @@
+C:\Users\MKA\Desktop\Programlar\PINGirisi\PINGirisi\bin\Debug\PINGirisi.exe.config
+C:\Users\MKA\Desktop\Programlar\PINGirisi\PINGirisi\bin\Debug\PINGirisi.exe
+C:\Users\MKA\Desktop\Programlar\PINGirisi\PINGirisi\bin\Debug\PINGirisi.pdb
+C:\Users\MKA\Desktop\Programlar\PINGirisi\PINGirisi\obj\Debug\PINGirisi.csprojAssemblyReference.cache
+C:\Users\MKA\Desktop\Programlar\PINGirisi\PINGirisi\obj\Debug\PINGirisi.Form1.resources
+C:\Users\MKA\Desktop\Programlar\PINGirisi\PINGirisi\obj\Debug\PINGirisi.Properties.Resources.resources
+C:\Users\MKA\Desktop\Programlar\PINGirisi\PINGirisi\obj\Debug\PINGirisi.csproj.GenerateResource.cache
+C:\Users\MKA\Desktop\Programlar\PINGirisi\PINGirisi\obj\Debug\PINGirisi.csproj.CoreCompileInputs.cache
+C:\Users\MKA\Desktop\Programlar\PINGirisi\PINGirisi\obj\Debug\PINGirisi.exe
+C:\Users\MKA\Desktop\Programlar\PINGirisi\PINGirisi\obj\Debug\PINGirisi.pdb
